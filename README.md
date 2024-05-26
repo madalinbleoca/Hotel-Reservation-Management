@@ -1,12 +1,3 @@
-Please add in Room class if the room is available 
-isAvailable : true
-
-Please add in application.properties a method for encrypt
-the password and user.
-
-In class Feedback add value of min and max number for
-rating.
-
 # **Hotel Reservation Management Web Application**
 
 A comprehensive web application for managing hotel reservations with user-friendly features, built with Java Spring Boot, Angular, and SQL.
